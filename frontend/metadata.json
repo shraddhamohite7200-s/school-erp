@@ -1,0 +1,6 @@
+{
+  "name": "SchoolERP",
+  "description": "Streamlined School Management System for early childhood and play schools, managing student admissions, class cohorts, daily attendance, fee ledger, and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
